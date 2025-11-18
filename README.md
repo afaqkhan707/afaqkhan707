@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sky Shadow 👋
 
-<!--
-**afaqkhan707/afaqkhan707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Socials:**
+[Instagram](https://instagram.com/) | [LinkedIn](https://linkedin.com/)
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**
+TypeScript | JavaScript | React | Node.js | Next.js | TailwindCSS | Firebase | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **GitHub Stats:**
+![Sky Shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyshadow&show_icons=true&theme=radical)
+
+🏆 **GitHub Trophies:**
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=skyshadow)
+
+✍️ **Random Dev Quote:**
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
