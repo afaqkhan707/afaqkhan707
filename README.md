@@ -1,4 +1,4 @@
-# Hi, I'm Afaq👋
+# Hi, I'm Afaq
 
 
 💻 **Tech Stack:**
