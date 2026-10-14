@@ -1,4 +1,4 @@
-# Hi, I'm Sky Shadow 👋
+# Hi, I'm Afaq👋
 
 
 💻 **Tech Stack:**
