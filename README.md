@@ -4,7 +4,7 @@
 
 TypeScript | JavaScript | Node.js | Kotlin | Dart
 
-🌐 **Portfolio Link:** [](https://afaqkhan707.github.io/)
+🌐 **:** [Portfolio Link](https://afaqkhan707.github.io/)
 
 💼 **LinkedIn Profile:** [](https://www.linkedin.com/in/afaqkhan707/)
 
