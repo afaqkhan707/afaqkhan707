@@ -1,4 +1,4 @@
-# Hi, I'm Afaq 👋
+# 👋, I'm Afaq 
 
 <h3 align="center">Mobile App & Full-Stack Developer</h3>
 
